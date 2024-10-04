@@ -113,7 +113,8 @@ sqlplus sys@localhost:1521/FREEPDB1 as sysdba
 
 You should see the creation summary as below:
 
-![image](https://github.com/user-attachments/assets/deb19d6f-e50d-4ff9-aaea-69b5c57631f4)
+![image](https://github.com/user-attachments/assets/270a9963-c7aa-40f0-a4b6-cd4113eab12d)
+
 
 
 
@@ -132,10 +133,11 @@ source ~/.bash_profile
 Connect to the 23ai database as sales history user sh/<password>
 
 ```
-sqlplus sh/sh@FREE
+sqlplus hr/hr@FREE
 ```
 
-![image](https://github.com/user-attachments/assets/26244ff7-4aa0-49af-a059-49b393a57fee)
+![image](https://github.com/user-attachments/assets/e75808a8-f2cf-43c2-b3e9-603d88031cfd)
+
 
 
 ### Install and activiate python virtual environment (as devops)
