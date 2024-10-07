@@ -193,8 +193,13 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 
 
-To be continued for python scripts.
+### Python script execution:
+
+
+![image](https://github.com/user-attachments/assets/6b716cbd-9cf4-4935-ac33-00ba6c06a299)
 
 
 
 
+
+I hope these steps have been useful to you in your attempt to configure and task to an Oracle database using an LLM -- thanks!
